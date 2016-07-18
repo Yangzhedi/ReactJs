@@ -5,3 +5,4 @@
 1.控制复选框可选个数: http://yangzhedi.github.io/react/limitCheckBox.html <br/>
 2.React版的2048: http://yangzhedi.github.io/react/2048.html <br/>
 3.3个单选框或复选框的互斥组件: http://yangzhedi.github.io/react/mutexComponent.html <br/>
+4.完善评论框: http://yangzhedi.github.io/react/commentButton.html<br/>
