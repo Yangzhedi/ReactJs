@@ -10,7 +10,7 @@ http://yangzhedi.github.io/react/limitCheckBox.html <br/><br/>
 http://yangzhedi.github.io/react/mutexComponent.html <br/><br/>
 3.完善评论框: <br/>
 可以根据后台的数据来进行处理评论框，如果有数据就不允许编辑，如果没有就可以编辑提交，还可以通过ref来限制最少字数（最少150字，最多200字）<br/>
-http://yangzhedi.github.io/react/commentButton.html<br/><br/>
+http://yangzhedi.github.io/react/commentTextarea.html<br/><br/>
 4.可切换的ul: <br/>
 利用state的变化来切换li标签并高亮<br/>
 http://yangzhedi.github.io/react/switchUL.html<br/><br/>
